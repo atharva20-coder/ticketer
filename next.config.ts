@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       { hostname: "amiable-ibex-756.convex.cloud", protocol: "https" },
-      { hostname: "wary-anaconda-29.convex.cloud", protocol: "https" },
+      { hostname: "friendly-sardine-32.convex.cloud", protocol: "https" }, //hosted on vercel
     ],
   },
 };
